@@ -14,8 +14,8 @@
 
 ---
 
-<img align="left" alt="Vakea's Github Stats" src="https://github-readme-statsdf-lzgxznp6g-nooffy.vercel.app/api/top-langs?langs_count=400&theme=midnight-purple&show_icons=true&hide_border=true" />
-<img align="right" alt="Vakea's Github Stats" src="https://github-readme-statsdf-lzgxznp6g-nooffy.vercel.app/api?layout=compact&theme=midnight-purple&show_icons=true&hide_border=true" />
+<img align="left" alt="Vakea's Github Stats" src="https://github-readme-stats-fnackv5jp-nooffy.vercel.app/api/top-langs?langs_count=400&theme=midnight-purple&show_icons=true&hide_border=true" />
+<img align="right" alt="Vakea's Github Stats" src="https://github-readme-stats-fnackv5jp-nooffy.vercel.app/api?layout=compact&theme=midnight-purple&show_icons=true&hide_border=true" />
 
 
 [website]: https://kibblelands.net
