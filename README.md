@@ -14,8 +14,15 @@
 
 ---
 
-<img align="center" alt="Vakea Github Stats" src="https://github-readme-stats-rho-kohl.vercel.app/api/top-langs?langs_count=300&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+<img align="right" alt="Vakea Github Stats" src="https://github-readme-stats-rho-kohl.vercel.app/api/top-langs?langs_count=300&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 
+<img align="left" alt="Vakea Github Stats" src="https://github-readme-stats-rho-kohl.vercel.app/api?theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+
+<br />
+
+![Nooffy's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nooffy&theme=react-dark)
+
+<br />
 
 [website]: https://kibblelands.net
 [ZetaLoader]: https://github.com/Nooffy/ZetaLoader
