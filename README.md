@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Vakea Github Stats" src="https://github-readme-stats-rho-kohl.vercel.app/api/top-langs?langs_count=14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+<img align="right" alt="Vakea Github Stats" src="https://github-readme-stats-rho-kohl.vercel.app/api/top-langs?langs_count=10&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 
 <img align="left" alt="Vakea Github Stats" src="https://github-readme-stats-rho-kohl.vercel.app/api?theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 
