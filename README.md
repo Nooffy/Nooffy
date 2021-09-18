@@ -1,7 +1,7 @@
 ### Hi there, I'm Nooffy - aka [Vakea][twitter] 👋
 
 ## I'm a Games Designer and Programer and Musician producer.
-- 🌋 I’m currently working on a [ZetaLoader][ZetaLoader]!
+- 🌋 I’m currently working on a [KibbleLands][KibbleLands]!
 
 ### Connect with me:
 
@@ -25,7 +25,7 @@
 <br />
 
 [website]: https://kibblelands.net
-[ZetaLoader]: https://github.com/Nooffy/ZetaLoader
+[KibbleLands]: https://kibblelands.net
 [twitter]: https://twitter.com/NO0ffy
 [discord]: https://discord.gg/M38gnsvtqt
 [youtube]: soonTM
